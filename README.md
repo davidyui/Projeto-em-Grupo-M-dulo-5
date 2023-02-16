@@ -1,4 +1,4 @@
-## Referência para criação :open_book:
+## Referências :open_book:
 
  - [Base Crud - Resília](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Base Banco de dados MySQL - Resília](https://github.com/matiassingers/awesome-readme)
